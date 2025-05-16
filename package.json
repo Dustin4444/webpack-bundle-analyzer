@@ -35,7 +35,7 @@
   "dependencies": {
     "@discoveryjs/json-ext": "0.5.7",
     "acorn": "^8.0.4",
-    "acorn-walk": "^8.0.0",
+    "acorn-walk": "^8.3.4",
     "commander": "^7.2.0",
     "debounce": "^1.2.1",
     "escape-string-regexp": "^4.0.0",
